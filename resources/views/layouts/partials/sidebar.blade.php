@@ -98,7 +98,7 @@ padding: 8px 0px;
           </p>
         </a>
       </li>
-      <li class="nav-item">
+      {{-- <li class="nav-item">
         <a href="/suntingInformasiPasien" class="nav-link">
           <p>
             Sunting Informasi
@@ -108,7 +108,7 @@ padding: 8px 0px;
            Pasien
           </p>
         </a>
-      </li>
+      </li> --}}
       <li class="nav-item">
         <a href="/lihatInformasiPetugas" class="nav-link">
           <p>
@@ -131,7 +131,7 @@ padding: 8px 0px;
         </p>
       </a>
     </li>
-    <li class="nav-item">
+    {{-- <li class="nav-item">
       <a href="/suntingInformasiPetugas" class="nav-link">
         <p>
           Sunting Informasi
@@ -141,7 +141,7 @@ padding: 8px 0px;
          Petugas
         </p>
       </a>
-    </li>
+    </li> --}}
     <li class="nav-item has-treeview">
       <a href="#" class="nav-link">
         <p>
@@ -324,7 +324,7 @@ padding: 8px 0px;
                   </div>
                   <!-- /.col -->
                   <div class="col-4">
-                    <button type="submit" class="btn btn-primary btn-block">Daftar</button>
+                    <button type="submit" class="btn btn-primary btn-block">Ok</button>
                   </div>
                   <!-- /.col -->
                 </div>
@@ -363,14 +363,6 @@ padding: 8px 0px;
                   </div>
                 </div>
                 <div class="row">
-                  <div class="col-8">
-                    <div class="icheck-primary">
-                      <input type="checkbox" id="remember">
-                      <label for="remember">
-                        Remember Me
-                      </label>
-                    </div>
-                  </div>
                   <!-- /.col -->
                   <div class="col-4">
                     <button type="submit" class="btn btn-primary btn-block">Sign In</button>
@@ -379,12 +371,6 @@ padding: 8px 0px;
                 </div>
               </form>
             </div>
-            <p class="m-2">
-              <a href="/forgotPassword">I forgot my password</a>
-            </p>
-            <p class="m-2">
-              <a href="/register" class="text-center">Register a new membership</a>
-            </p>
           </div>
         </div>
       </div>

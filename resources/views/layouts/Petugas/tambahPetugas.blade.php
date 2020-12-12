@@ -17,7 +17,7 @@
       
             <form action="../../index.html" method="post">
               <div class="input-group mb-3">
-                <input type="text" class="form-control" placeholder="Nama Lengkap Pasien">
+                <input type="text" class="form-control" placeholder="Nama Lengkap Petugas">
               </div>
               <div class="input-group mb-3">
                 <input type="email" class="form-control" placeholder="Email">
@@ -58,7 +58,7 @@
         <div class="modal-body">
           <form action="../../index.html" method="post">
             <div class="input-group mb-3">
-              <input type="text" class="form-control" placeholder="Nama Lengkap Pasien">
+              <input type="text" class="form-control" placeholder="Nama Lengkap Petugas">
             </div>
             <div class="input-group mb-3">
               <input type="email" class="form-control" placeholder="Email">
@@ -67,10 +67,10 @@
               <input type="password" class="form-control" placeholder="NIK">
             </div>
             <div class="input-group mb-3">
-              <input type="password" class="form-control" placeholder="Password Sementara">
+              <input type="password" class="form-control" placeholder="Password">
             </div>
             <div class="input-group mb-3">
-              <input type="password" class="form-control" placeholder="Masukkan Kembali Password Sementara">
+              <input type="password" class="form-control" placeholder="Masukkan Kembali Password">
             </div>
             <div class="row">
               <!-- /.col -->

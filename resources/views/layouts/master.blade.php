@@ -55,17 +55,17 @@
               </div>
             </div>
           </div>
-
           <!-- ./col -->
         </div>
         <!-- /.row -->
         <!-- Main row -->
-        <div class="row">
+      
+      
+      
+        {{-- <div class="row">
           <h4 class="m-2">Nomor Antrian Anda</h4>
-          
-          <!-- right col -->
-        </div>
-        <div class="col-lg-3 col-6">
+        </div> --}}
+        {{-- <div class="col-lg-3 col-6">
           <div class="small-box bg-blue" style="width: 15rem;">
             <div class="inner">
               <h3 style="text-align:center" >Poli Gigi</h3>
@@ -74,8 +74,10 @@
             </div>
             <a href="#" class="small-box-footer bg-danger">Batal</a>
           </div>
-        </div>
-        <!-- /.row (main row) -->
+        </div> --}}
+
+
+
       </div><!-- /.container-fluid -->
     </section>
     <!-- /.content -->
